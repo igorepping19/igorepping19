@@ -1,7 +1,7 @@
 
-# Olá, sou o Igor Henrique Epping!!!  :nerd_face:
+# Olá, sou o Igor Henrique Epping!
 
-## "Em constante aprendizado, transformando café e código em soluções criativas."  :coffee: :computer:
+## "Em constante aprendizado, transformando café e código em soluções criativas.":coffee: :computer:
 
 ### Sou um entusiasta de tecnologia focado em desenvolvimento Web. Atualmente, estou aprimorando meus conhecimentos em PHP e JavaScript, com foco em criar soluções eficientes e escaláveis.
 
